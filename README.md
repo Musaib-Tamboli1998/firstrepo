@@ -1,4 +1,4 @@
 # firstrepo
 my first github repo
 <br>
-Author-Musaib Tamboli
+Author-Tamboli Musaib
